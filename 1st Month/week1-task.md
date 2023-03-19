@@ -60,17 +60,17 @@ Arrested *DevOps* is a popular podcast that focuses on the intersection of softw
 
 Arrested *DevOps* is available on multiple podcast platforms, including Google Podcasts, and is free to listen to. The podcast aims to provide practical insights and advice for listeners who are interested in adopting *DevOps* practices in their own organizations. The podcast also features a lively and engaging discussion format, with hosts and guests often sharing personal anecdotes and experiences.
 
-![Arrested*DevOps* Podcast](https://www.arrested*DevOps*.com/)
+(https://www.arrested*DevOps*.com/)
 
 ### 3. Michael Cade’s 90daysof*DevOps*
 
 Michael Cade’s GitHub repository of 90 Days of *DevOps* gives a detailed roadmap to learn about *DevOps* and its related tools in 90 days
 
-![GitHub - MichaelCade/90DaysOf*DevOps*](https://github.com/MichaelCade/90DaysOf*DevOps*)
+(https://github.com/MichaelCade/90DaysOf*DevOps*)
 
 ### 4. *DevOps* Roadmap:
 
-![*DevOps* Roadmap](https://roadmap.sh/*DevOps*)
+(https://roadmap.sh/*DevOps*)
 
 ### 5. *DevOps* Books:
 
