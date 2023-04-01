@@ -54,4 +54,5 @@ In the table below, we highlighted the key distinctions in the way the concepts 
 |   Focus       |SRE’s responsibility is primarily focused on improving the availability and reliability of the system.|DevOps focuses on the rapidity of development and delivery while ensuring continuity.|
 |   Team structure |The team consists of site reliability engineers who have both operational and development experience.|The DevOps team includes testers, programmers, engineers, SREs, and more.|
 
-![SRE Vs DevOps](https://jelvix.com/wp-content/uploads/2022/04/sre-devops-diff-966x831.png)
+# Difference Between Job Roles:
+![Difference Between Job Roles](https://jelvix.com/wp-content/uploads/2022/04/difference-devops-sre-1-966x623.png)
