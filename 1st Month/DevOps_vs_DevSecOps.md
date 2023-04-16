@@ -1,5 +1,7 @@
 # Difference between DevOps and DevSecOps
 > DevOps -> Development & operations 
+
+
 > DevSecOps -> Development, security & operations
 
 - DevOps is a software development approach that emphasizes communication, collaboration, and automation between software developers and IT operations teams.
