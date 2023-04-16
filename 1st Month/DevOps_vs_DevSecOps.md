@@ -6,6 +6,7 @@
 - DevSecOps is a software development approach that emphasizes communication, collaboration, and automation between software developers, security teams, and IT operations teams.
 
 |	        |           DevOps                  |	        DevSecOps          |
+|-----------|-----------------------------------|-------------------------------|
 |Focus	    |   Collaboration and automation    |	Collaboration, automation, and security |
 |Goal	    |   Streamline development          |	Streamline development with security |
 |Process    |	Continuous integration and delivery |	Continuous integration, delivery, and security |
